@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <a href="https://alexalex.net/">
+  <a href="https://nexon-folio.vercel.app">
     <img alt="Portfolio" src="https://img.shields.io/badge/🌐%20Portfolio-1abc9c?style=for-the-badge">
   </a>
   <a href="mailto:nexonist9822@gmail.com">
