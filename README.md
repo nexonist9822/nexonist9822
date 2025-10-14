@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! 🥇 <br> I'm Nexon </h1>
+<h1 align="center"> Hi there! 🥇 <br> I'm Pavlo </h1>
 <h3 align="center">Welcome to my Profile 🍄</h3>
 
 ---
